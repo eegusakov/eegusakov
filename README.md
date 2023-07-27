@@ -1,6 +1,6 @@
-### 👋 Hi there, I'm @eegusakov
+### 👋 Hi there, I'm Egor
 
-- I'm an engineer 👨‍💻
+- I'm Software Engineer 👨‍💻
 - I 💜 writing code in PHP
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eegusakov&show_icons=true)

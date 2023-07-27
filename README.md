@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi there, I'm @eegusakov
+
+- I'm an engineer 👨‍💻
+- I 💜 writing code in PHP
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eegusakov&show_icons=true)
 
 <!--
 **eegusakov/eegusakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
